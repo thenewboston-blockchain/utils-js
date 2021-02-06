@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,8 +31,13 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "utils",
-  "author": "Justin Kim",
+  "name": "@thenewboston/utils",
+  "description": "Utility files for the thenewboston community",
+  "keywords": [
+    "thenewboston"
+  ],
+  "homepage": "https://github.com/thenewboston-developers/utils-js",
+  "author": "thenewboston",
   "module": "dist/utils.esm.js",
   "size-limit": [
     {
