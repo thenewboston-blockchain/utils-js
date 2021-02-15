@@ -2,7 +2,7 @@ name: Test
 on:
   pull_request:
     branches:
-      - main
+      - master
 jobs:
   build:
     name: Running test on Node ${{ matrix.node }} and ${{ matrix.os }}
